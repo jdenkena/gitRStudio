@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512995224697.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1480968800",
+    "id" : "6598EEB6",
+    "lastKnownWriteTime" : 1512995241,
+    "last_content_update" : 1512995241830,
+    "path" : "~/Dokumente/PhD/CodingCamp/gitRStudio/Version2.Rmd",
+    "project_path" : "Version2.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
